@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    background-color: white;
+}
+
+h2 {
+    color: blue;
+    background-color: red;
+}
+
+.recipie_desc {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+ol li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+ul li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: pink;
+}
